@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shervin</h1>
-<h3 align="center">A passionate python developer from Iran.</h3>
+Hi 👋, I'm Shervin
 
 - 🔭 I’m currently working on [Battleship](https://github.com/Shebeli/BattleShipPy)
 
