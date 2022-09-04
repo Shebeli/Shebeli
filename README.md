@@ -1,5 +1,4 @@
 Hi 👋, I'm Shervin
 
-- 🔭 I’m currently working on _
+- 🔭 I’m currently working on TelegramMusicBot
 
-- 🌱 I’m currently learning **FastAPI**
